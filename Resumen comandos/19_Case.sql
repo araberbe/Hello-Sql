@@ -1,6 +1,5 @@
 /*
 CASE
-
 */
 
 -- Obtiene todos los datos de la tabla "users" y establece condiciones de visualización de cadenas de texto según el valor de la edad 

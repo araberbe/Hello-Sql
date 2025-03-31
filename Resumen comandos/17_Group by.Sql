@@ -1,6 +1,5 @@
 /*
 GROUP BY
-
 */
 
 -- Agrupa los resultados por edad diferente

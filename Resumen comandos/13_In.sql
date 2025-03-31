@@ -1,6 +1,5 @@
 /*
 IN
-
 */
 
 -- Ordena todos los datos de la tabla "users" con nombre igual a nina y kiara

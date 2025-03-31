@@ -1,6 +1,5 @@
 /*
 TRANSACTIONS
-
 */
 
 -- Inicia una nueva transacción. Desde este punto, todas las modificaciones realizadas en la

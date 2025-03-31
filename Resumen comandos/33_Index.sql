@@ -1,6 +1,5 @@
 /*
 INDEX
-
 */
 
 -- Crea un índice llamado "idx_name" en la tabla "users" asociado al campo "name"

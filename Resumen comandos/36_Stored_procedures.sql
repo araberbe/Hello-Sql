@@ -1,6 +1,5 @@
 /*
 STORED PROCEDURES
-
 */
 
 -- Crea un procedimiento almacenado llamado "p_all_users" que obtiene todos los datos de "users"

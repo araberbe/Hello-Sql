@@ -1,6 +1,5 @@
 /*
 NOT, AND, OR
-
 */
 
 -- Obtiene todos datos de la tabla "users" con email distinto a sara@gmail.com

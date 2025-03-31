@@ -1,6 +1,5 @@
 /*
 MIN, MAX
-
 */
 
 -- Obtiene el valor menor del campo edad de la tabla "users"

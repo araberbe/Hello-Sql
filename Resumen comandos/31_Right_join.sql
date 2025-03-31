@@ -1,6 +1,5 @@
 /*
 RIGHT JOIN
-
 */
 
 -- Obtiene todos los dni junto a su usuario (lo tenga o no)

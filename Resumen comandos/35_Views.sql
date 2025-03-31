@@ -1,6 +1,5 @@
 /*
 VIEWS
-
 */
 
 -- Crea una vista llamada "v_adult_users" con los nombres y edades de usuarios de la table "users"

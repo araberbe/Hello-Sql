@@ -1,6 +1,5 @@
 /*
 HAVING
-
 */
 
  -- HAVING:

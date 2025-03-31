@@ -1,6 +1,5 @@
 /*
 CONCAT
-
 */
 
 -- Concatena en una sola columa los campos nombre y apellido

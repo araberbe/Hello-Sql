@@ -1,6 +1,5 @@
 /*
 COUNT
-
 */
 
 -- Cuenta cuantas filas contiene la tabla "users"

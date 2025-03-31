@@ -1,6 +1,5 @@
 /*
 CREATE DATABASE
-
 */
 
 -- Crea una base de datos llamada "test"

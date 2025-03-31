@@ -1,6 +1,5 @@
 /*
 DROP TABLE
-
 */
 
 -- Elimina la tabla llamada "persons8"

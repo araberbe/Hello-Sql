@@ -1,6 +1,5 @@
 /*
 TRIGGERS
-
 */
 
 -- Crea una tabla de historial para usar en el ejemplo

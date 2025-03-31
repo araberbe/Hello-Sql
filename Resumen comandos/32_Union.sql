@@ -1,6 +1,5 @@
 /*
 UNION (FULL JOIN)
-
 */
 
 -- UNION elimina duplicados

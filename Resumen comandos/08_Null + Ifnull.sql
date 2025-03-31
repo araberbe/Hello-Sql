@@ -1,6 +1,5 @@
 /*
 NULL
-
 */
 
 -- Obtiene todos datos de la tabla "users" de la tabla "users" con email nulo
@@ -19,7 +18,6 @@ SELECT * FROM users WHERE email IS NOT NULL AND age = 15;
 
 /*
 IFNULL
-
 */
 
 -- Obtiene el nombre, apellido y edad de la tabla "users", y si la edad es nula la muestra como 0

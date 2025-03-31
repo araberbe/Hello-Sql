@@ -1,6 +1,5 @@
 /*
 LIKE
-
 */
 
 -- Obtiene todos datos de la tabla "users" que contienen un email con el texto "gmail.com" en su parte final

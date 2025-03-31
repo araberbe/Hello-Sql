@@ -1,6 +1,5 @@
 /*
 AVG
-
 */
 
 -- Obitne la media de edad de la tabla "users"

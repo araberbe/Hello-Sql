@@ -1,6 +1,5 @@
 /*
 SUM
-
 */
 
 -- Suma todos los valores del campo edad de la tabla "users"

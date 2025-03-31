@@ -1,6 +1,5 @@
 /*
 SELECT
-
 */
 
 -- Obtiene todos los datos de la tabla "users"

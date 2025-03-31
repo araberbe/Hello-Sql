@@ -1,6 +1,5 @@
 /*
 LIMIT
-
 */
 
 -- Obtiene las 3 primeras filas de la tabla "users"

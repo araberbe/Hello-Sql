@@ -1,6 +1,5 @@
 /*
 ALIAS
-
 */
 
 -- Establece el alias 'Fecha de inicio en programación' a la columna init_date

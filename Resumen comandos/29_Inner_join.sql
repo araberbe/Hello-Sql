@@ -1,6 +1,5 @@
 /*
 INNER JOIN (JOIN)
-
 */
 
 -- Obtiene los datos de los usuarios que tienen un dni 

@@ -1,6 +1,5 @@
 /*
 LEFT JOIN
-
 */
 
 -- Obtiene los datos de todos los usuarios junto a su dni (lo tenga o no)

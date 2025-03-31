@@ -1,6 +1,5 @@
 /*
 INSERT
-
 */
 
 -- Inserta un registro con identificador, nombre y apellido en la tabla "users"

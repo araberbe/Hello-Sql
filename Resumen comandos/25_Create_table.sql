@@ -20,7 +20,6 @@ CONSTRAINTS: Restricciones
 
 /*
 NOT NULL
-
 */
 
 -- NOT NULL: Obliga a que el campo id posea siempre un valor no nulo
@@ -34,7 +33,6 @@ CREATE TABLE persons2 (
 
 /*
 UNIQUE
-
 */
 
 -- UNIQUE: Obliga a que el campo id posea valores diferentes
@@ -49,7 +47,6 @@ CREATE TABLE persons3 (
 
 /*
 PRIMARY KEY
-
 */
 
 -- PRIMARY KEY: Establece el campo id como clave primaria para futuras relaciones con otras tablas
@@ -65,7 +62,6 @@ CREATE TABLE persons4 (
 
 /*
 CHECK
-
 */
 
 -- CHECK: Establece que el campo age sólo podrá contener valores mayores o iguales a 18
@@ -82,7 +78,6 @@ CREATE TABLE persons5 (
 
 /*
 DEFAULT
-
 */
 
 -- DEFAULT: Establece un valor por defecto en el campo created correspondiente a la fecha del sistema
@@ -99,7 +94,6 @@ CREATE TABLE persons6 (
 
 /*
 AUTO INCREMENT
-
 */
 
 -- AUTO_INCREMENT: Indica que el campo id siempre se va a incrementar en 1 con cada nuevo inserto

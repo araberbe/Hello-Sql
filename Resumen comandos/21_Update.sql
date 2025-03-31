@@ -1,6 +1,5 @@
 /*
 UPDATE
-
 */
 
 -- Estable el valor 21 para la edad del registro de la tabla "users" con identificador igual a 11

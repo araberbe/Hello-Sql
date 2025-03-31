@@ -1,6 +1,5 @@
 /*
 BETWEEN
-
 */
 
 -- Ordena todos los datos de la tabla "users" con edad comprendida entre 20 y 30
