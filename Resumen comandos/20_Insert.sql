@@ -1,0 +1,20 @@
+/*
+INSERT
+
+*/
+
+-- Inserta un registro con identificador, nombre y apellido en la tabla "users"
+
+INSERT INTO users (user_id, name, surname) VALUES (8, 'María', 'López')
+
+-- Inserta un registro con nombre y apellido en la tabla "users"
+
+INSERT INTO users (name, surname) VALUES ('Paco', 'Pérez')
+
+-- Inserta un registro con identificador no correlativo, nombre y apellido en la tabla "users"
+
+INSERT INTO users (user_id, name, surname) VALUES (11, 'El', 'Merma')
+
+-- Estructura completa
+
+INSERT INTO nombre_tabla VALUES (valor1, valor2, valor3, ...); 
